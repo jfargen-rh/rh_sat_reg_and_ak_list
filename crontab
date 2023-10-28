@@ -14,4 +14,4 @@ MAILTO=root
 # *  *  *  *  * user-name  command to be executed
 
 
-0 0 * * *  root  /root/satellite-crontab-script.bash > /dev/null 2>&1
+0 0 * * *  root  /root/satellite-ak-list.sh > /dev/null 2>&1
