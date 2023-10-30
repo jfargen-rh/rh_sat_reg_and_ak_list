@@ -1,4 +1,7 @@
 #!/bin/bash
+# The original author of the script is unknown.
+# Initial credit will be given to Chris Paquin, unless otherwise updated.
+
 
 # Write out time stamp to file
 /usr/bin/date > /var/www/html/pub/activation-key.txt
